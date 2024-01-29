@@ -4,16 +4,12 @@ const About = ({username}) => {
   return (
     <Main>
         <div>
-
-          
             <div className="pic">
               <div className="top">
                 <h1>{username}</h1>
                 <p>Stay Cozy and Warm with our new Winter Colection</p>
                 <button>SHOP NOW</button>
               </div>
-
-              
               <img src="/images/here.avif"></img>
             </div>
         </div>
